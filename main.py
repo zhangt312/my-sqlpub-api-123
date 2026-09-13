@@ -28,6 +28,7 @@ DB_CONFIG = {
 QUERIES = {
     "60ksldz": "SELECT * FROM 60K缩量大涨 ",
     "trueslxg": "SELECT * FROM 真缩量新高",
+    "cyflweekk":"select * from 超越放量周K",
 }
 
 # ---------- API 接口 ----------
